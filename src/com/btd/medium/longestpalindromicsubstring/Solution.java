@@ -1,4 +1,4 @@
-package com.btd.longestpalindromicsubstring;
+package com.btd.medium.longestpalindromicsubstring;
 
 /**
  * Leet Code - Medium - Problem 5 - Longest Palindromic Substring
@@ -6,6 +6,7 @@ package com.btd.longestpalindromicsubstring;
  * Input: s = "babad"
  * Output: "bab"
  * Note: "aba" is also a valid answer.
+ * https://leetcode.com/problems/longest-palindromic-substring/
  */
 public class Solution {
 

@@ -1,4 +1,4 @@
-package com.btd.substringwithnonrepeatingcharacter;
+package com.btd.medium.substringwithnonrepeatingcharacter;
 
 /**
  * Leet Code - Medium - Problem 3 - Longest Substring Without Repeating Characters
@@ -6,6 +6,7 @@ package com.btd.substringwithnonrepeatingcharacter;
  * Input: s = "abcabcbb"
  * Output: 3
  * Explanation: The answer is "abc", with the length of 3.
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 
 import java.util.HashMap;

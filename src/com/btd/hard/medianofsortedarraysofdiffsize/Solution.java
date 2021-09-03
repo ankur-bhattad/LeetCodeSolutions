@@ -1,4 +1,4 @@
-package com.btd.medianofsortedarraysofdiffsize;
+package com.btd.hard.medianofsortedarraysofdiffsize;
 
 /**
  * Leet Code - Hard - Problem 4 - Median of Two Sorted Arrays
@@ -7,6 +7,7 @@ package com.btd.medianofsortedarraysofdiffsize;
  * Input: nums1 = [1,3], nums2 = [2]
  * Output: 2.00000
  * Explanation: merged array = [1,2,3] and median is 2.
+ * https://leetcode.com/problems/median-of-two-sorted-arrays/
  */
 
 public class Solution {

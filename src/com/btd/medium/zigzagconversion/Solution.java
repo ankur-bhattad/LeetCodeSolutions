@@ -1,4 +1,4 @@
-package com.btd.zigzagconversion;
+package com.btd.medium.zigzagconversion;
 
 /**
  * Leet Code - Medium - Problem 6 - Zigzag conversion
@@ -10,6 +10,7 @@ package com.btd.zigzagconversion;
  * A   L S  I G
  * Y A   H R
  * P     I
+ * https://leetcode.com/problems/zigzag-conversion/
  */
 
 public class Solution {
