@@ -1,4 +1,4 @@
-package suprdaily;
+package com.btd.suprdaily;
 
 import java.util.*;
 
