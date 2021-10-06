@@ -11,8 +11,8 @@ package com.btd.medium.addtwonumbersaslinkedlist;
  */
 
 class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     ListNode() {
     }
