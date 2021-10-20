@@ -1,8 +1,5 @@
 package com.btd.medium.jumpgame;
 
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * Leet Code - Medium - Problem 55 - Jump Game
  * You are given an integer array nums. You are initially positioned at the array's first index, and each element in the
