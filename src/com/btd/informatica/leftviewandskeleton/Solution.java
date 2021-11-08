@@ -98,7 +98,7 @@ output: 7, 4, 9, 22, 3, 1
     }
 
     public static void printSkeleton(Node root) {
-        System.out.println("Skeleton using Level order traversal");
+        System.out.println("Skeleton using Level order traversal: Left and Right view");
         if (root == null) {
             return;
         }

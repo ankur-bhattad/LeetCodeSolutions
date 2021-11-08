@@ -22,7 +22,7 @@ public class Solution {
             }
         }
 
-        // i is celebrity if itmeets criteria that he knows no one and everyone else knows him
+        // i is celebrity if it meets criteria that he knows no one and everyone else knows him
         int count = 0;
         for (int k = 0; k < celebs.length; k++) {
             if (k != i) {
