@@ -2,7 +2,7 @@ package com.btd.salesforce.beautifularrangementofnumbers.usingbasearray;
 
 public class CountOfArrangements {
     public static void main(String[] args) {
-        int n = 3;
+        int n = 5;
 
         // brute force recursive
         System.out.println(countOfBeautifulArrangements(n));
