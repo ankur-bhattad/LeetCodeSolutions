@@ -9,7 +9,8 @@ import java.util.*;
  * where adjacent cells are horizontally or vertically neighboring.
  * The same letter cell may not be used more than once in a word.
  * <p>
- * Input: board = [["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]], words = ["oath","pea","eat","rain"]
+ * Input: board = [["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]],
+ *        words = ["oath","pea","eat","rain"]
  * Output: ["eat","oath"]
  * https://leetcode.com/problems/word-search-ii/
  */

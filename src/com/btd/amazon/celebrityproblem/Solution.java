@@ -1,5 +1,6 @@
 package com.btd.amazon.celebrityproblem;
 
+// https://www.geeksforgeeks.org/the-celebrity-problem/
 public class Solution {
     public static void main(String[] args) {
         String[] celebs = {"a", "b", "c"};
@@ -15,10 +16,11 @@ public class Solution {
         int j = celebs.length-1;
 
         while (i < j) {
+            // if j knows i
             if (knows(i, j)) {
-                i++;
-            } else {
                 j--;
+            } else {
+                i++;
             }
         }
 

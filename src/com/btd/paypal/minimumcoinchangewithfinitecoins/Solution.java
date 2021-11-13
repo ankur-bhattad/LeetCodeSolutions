@@ -5,13 +5,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution {
-
+// Not correct
     /**
      * Bottom up way of solving this problem.
-     * Keep input sorted. Otherwise temp[j-arr[i]) + 1 can become Integer.Max_value + 1 which
+     * kepp default s Integer.max+1. Otherwise temp[j-arr[i]) + 1 can become Integer.Max_value + 1 which
      * can be very low negative number
      * Returns Integer.MAX_VALUE - 1 if solution is not possible.
      */
+
     public static int minimumCoinBottomUp(int total, Map<Integer, Integer> coinMap) {
         int T[] = new int[total + 1];
         int R[] = new int[total + 1];
