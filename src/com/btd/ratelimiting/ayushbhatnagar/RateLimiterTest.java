@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
  * This class then pumps loads through iterations, and sleep time to
  * control traffic ingestion.
  */
-public class RateLimiterTest implements RateLimitListener {
+public class RateLimiterTest {
 
     // Number of iterations to be executed (simulate load generation)
     private static long iterations = 1000;
